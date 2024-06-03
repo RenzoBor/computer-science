@@ -92,7 +92,7 @@ just remember that you can't purchase success!
 - [Prerequisites](#prerequisites)✅
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming)✅
-  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Introduction to Computer Science](#introduction-to-computer-science)✅
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
@@ -145,7 +145,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+✅[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
